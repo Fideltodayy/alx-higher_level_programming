@@ -2,5 +2,3 @@
 """Defines a Rectangle class."""
 class Rectangle:
     pass
-
-# newline at the end
