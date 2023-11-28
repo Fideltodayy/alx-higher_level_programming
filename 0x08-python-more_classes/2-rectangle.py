@@ -12,3 +12,4 @@ class Rectangle:
             self.height = height
         else:
             raise ValueError("Height must be a positive integer")
+        
